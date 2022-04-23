@@ -2,7 +2,7 @@
 
 <h3 align="center"> :monkey: Me :monkey: </h3>
 <p align="center">
-  <a href="https://www.instagram.com/khchu1220/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/khchu1220/"></a>&nbsp
+  <a href="https://blog.naver.com/khchu1220"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/khchu1220"></a>&nbsp
   <a href="mailto:khchu1220@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=khchu1220@naver.com"/></a>
   <br><br>
   Hi! I'm a frontEnd developer.
@@ -38,11 +38,11 @@
 
 <br>
 
-<h3 align="center">:hatched_chick: Blog :hatched_chick: </h3>
+<h3 align="center">:hatched_chick: Instagram :hatched_chick: </h3>
 
 <div align="center" style="text-align:center">
   
-  <a href="https://blog.naver.com/khchu1220"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/khchu1220"></a>
+  <a href="https://www.instagram.com/khchu1220/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/khchu1220/"></a>
   
 </div>
   
