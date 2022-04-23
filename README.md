@@ -37,7 +37,3 @@
 </p>
 
 <br>
-
-<h3 align="center">:hatched_chick: Instagram :hatched_chick: </h3>
-  
-<br>
