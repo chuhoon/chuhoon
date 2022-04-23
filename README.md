@@ -39,11 +39,5 @@
 <br>
 
 <h3 align="center">:hatched_chick: Instagram :hatched_chick: </h3>
-
-<div align="center" style="text-align:center">
-  
-  <a href="https://www.instagram.com/khchu1220/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/khchu1220/"></a>
-  
-</div>
   
 <br>
