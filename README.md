@@ -1,6 +1,6 @@
 ## CHU KYEONG HOON | FrontEnd-Developer
 
-<h3  style="color:orange">ABOUT ME</h3>
+<h3 style="color:orange">ABOUT ME</h3>
 
 <strong>첫째, 전공에서 배운 CS 지식을 실습에 적용해 개발합니다.</strong>
 
@@ -17,8 +17,6 @@
 - `stack overflow`를 적극 활용합니다.
 - 유저의 편의성을 고려하며 동료가 이해하기 `쉬운 코드`를 작성하기 위해 노력합니다.
 
-<br>
-
 <h3 style="color:orange">SKILLS</h3>
 
 <b>Main Skills</b>
@@ -28,8 +26,6 @@
 <b>Special Skills</b>
 
 - PhotoShop, Premiere Pro
-
-<br>
 
 <h3  style="color:orange">Education</h3>
 
