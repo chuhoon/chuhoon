@@ -1,6 +1,6 @@
-## CHU KYEONG HOON | FrontEnd-Developer
+<h1>CHU KYEONG HOON | FrontEnd-Developer</h1>
 
-<h3 style="color:orange">ABOUT ME</h3>
+### 🙋‍♂️ABOUT ME
 
 <strong>첫째, 전공에서 배운 CS 지식을 실습에 적용해 개발합니다.</strong>
 
@@ -17,7 +17,7 @@
 - `stack overflow`를 적극 활용합니다.
 - 유저의 편의성을 고려하며 동료가 이해하기 `쉬운 코드`를 작성하기 위해 노력합니다.
 
-<h3 style="color:orange">SKILLS</h3>
+### 🛠SKILLS
 
 <b>Main Skills</b>
 
@@ -27,7 +27,7 @@
 
 - PhotoShop, Premiere Pro
 
-<h3  style="color:orange">Education</h3>
+### 👨🏻‍🎓Education
 
 - 안양대학교 소프트웨어학과 졸업 (2016.02.29~2022.02.18)
 - 멋쟁이사자처럼 프론트엔드 스쿨 2기 수료 (2022.03.23 ~ 2022.08.01)
