@@ -32,5 +32,5 @@
 
 ## 📝Contact
 
-Email khchu1220@naver.com
-Phone 010-7260-5830
+- Email khchu1220@naver.com
+- Phone 010-7260-5830
