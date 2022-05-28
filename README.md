@@ -19,11 +19,11 @@
 
 ### 🛠SKILLS
 
-<b>Main Skills</b>
+<strong>Main Skills</strong>
 
 - HTML, CSS, SCSS, JavaScript, React
 
-<b>Special Skills</b>
+<strong>Special Skills</strong>
 
 - PhotoShop, Premiere Pro
 
