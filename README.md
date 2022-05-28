@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=4500&color=000000&background=2936BB00&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Kyeong+hoon+Chu%F0%9F%91%8B;I'm+Front-End+Developer%F0%9F%96%A5%EF%B8%8F++)](https://git.io/typing-svg)
+
 ## 🙋‍♂️ABOUT ME
 
 <strong>첫째, 전공에서 배운 CS 지식을 실습에 적용해 개발합니다.</strong>
@@ -19,15 +21,20 @@
 
 <strong>Main Skills</strong>
 
-- HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, React
+- HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, React, 
 
 <strong>Special Skills</strong>
 
 - PhotoShop, Premiere Pro
 
+## 🏆Awards
+
+- 캡스톤 디자인 대회 최우수팀 선정(2022.12)
+
 ## 👨🏻‍🎓Education
 
 - 안양대학교 소프트웨어학과 졸업 (2016.02.29~2022.02.18)
+- 정보처리기사 자격증 취득 (2021.06.02)
 - 멋쟁이사자처럼 프론트엔드 스쿨 2기 수료 (2022.03.23 ~ 2022.08.01)
 
 ## 📝Contact
