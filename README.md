@@ -21,7 +21,7 @@
 
 <strong>Main Skills</strong>
 
-- HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, React, 
+- HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, React, React-Native
 
 <strong>Special Skills</strong>
 
