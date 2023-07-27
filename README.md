@@ -19,21 +19,3 @@
 ### ETC
 
 - PhotoShop, Premiere Pro
-
-## 🖥️ Other Experiences
-
-### 알잘딱깔센 JavaScript 비동기 프로그래밍 - 비동기 너 내 동기가 되라 책 출판.
-
-JavaScript 비동기 프로그래밍을 처음 배우는 사람의 입장에서 잘 이해할 수 있도록 핵심 개념들을 정의하고 많은 예제를 통해 이해를 도왔습니다.
-
-<img src='https://img.ridicdn.net/cover/2773000059/xxlarge?dpi=xxhdpi#1' width='200'/>
-
-- [공식 노션 페이지](https://paullabworkspace.notion.site/JavaScript-e171d97722484860aa5b162afae83cb1)
-- [리디북스](https://ridibooks.com/books/2773000059?_s=search&_q=%EC%95%8C%EC%9E%98%EB%94%B1%EA%B9%94%EC%84%BC&_rdt_sid=search&_rdt_idx=0)
-
-### 오픈소스 기여.
-- [모던 자바스크립트 튜토리얼](https://ko.javascript.info/) 영-한 번역 (이벤트 위임 챕터 일부)
-
-## ⚙️ Certificate
-
-- 정보처리기사 자격증 취득 (2021.06.02)
