@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=4500&color=000000&background=2936BB00&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Kyeong+hoon+Chu%F0%9F%91%8B;I'm+Front-End+Developer%F0%9F%96%A5%EF%B8%8F++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&duration=4500&color=000000&background=2936BB00&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Jerry+Chu%F0%9F%91%8B;I'm+Front-End+Developer%F0%9F%96%A5%EF%B8%8F++)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ ABOUT ME
 
