@@ -8,7 +8,7 @@
 
 - HTML, CSS, Sass, Tailwind, JavaScript, TypeScript
 - React, styled-components, Redux, React-Query, Next.js
-- Vue2, Vue3, Vuex
+- Vue2, Vue3, Vuex, Pinia
 
 ### Collaboration
 
